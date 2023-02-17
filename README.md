@@ -20,13 +20,14 @@
  
 <!--  [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,ruby,rails,postgres,git&theme=light)](https://reactjs.org/) -->
   [![My Skills](https://skills.thijs.gg/icons?i=js&theme=light)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
- [![My Skills](https://skills.thijs.gg/icons?i=html&theme=light)](https://www.w3.org/html/)
-  [![My Skills](https://skills.thijs.gg/icons?i=css&theme=light)](https://www.w3schools.com/css/)
+ [![My Skills](https://skills.thijs.gg/icons?i=html&theme=light)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  [![My Skills](https://skills.thijs.gg/icons?i=css&theme=light)](https://developer.mozilla.org/en-US/docs/Web/CSS)
   [![My Skills](https://skills.thijs.gg/icons?i=react&theme=light)](https://reactjs.org/)
   [![My Skills](https://skills.thijs.gg/icons?i=ruby&theme=light)](https://www.ruby-lang.org/en/)
   [![My Skills](https://skills.thijs.gg/icons?i=rails&theme=light)](https://rubyonrails.org/)
   [![My Skills](https://skills.thijs.gg/icons?i=postgres&theme=light)](https://www.postgresql.org/)
   [![My Skills](https://skills.thijs.gg/icons?i=git&theme=light)](https://git-scm.com/)
+ [![My Skills](https://skills.thijs.gg/icons?i=tailwind&theme=light)](https://tailwindcss.com/)
 
 </p>
 
