@@ -15,6 +15,7 @@
 
 <h3 align="left">Skills and Tools:</h3>
 <p align="left">
+  
   [![My Skills](https://skills.thijs.gg/icons?i=js&theme=light)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
  [![My Skills](https://skills.thijs.gg/icons?i=html&theme=light)](https://developer.mozilla.org/en-US/docs/Web/HTML)
   [![My Skills](https://skills.thijs.gg/icons?i=css&theme=light)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -24,6 +25,7 @@
   [![My Skills](https://skills.thijs.gg/icons?i=postgres&theme=light)](https://www.postgresql.org/)
   [![My Skills](https://skills.thijs.gg/icons?i=git&theme=light)](https://git-scm.com/)
  [![My Skills](https://skills.thijs.gg/icons?i=tailwind&theme=light)](https://tailwindcss.com/)
+  
 </p>
 
 <!-- - ⚡ Fun fact: I play video games and I love watching Football *(Premier League)* && Formula 1 *(Redbull Racing)*.
