@@ -19,6 +19,7 @@
 <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Ruby on Rails/Ruby on Rails-original.svg" alt="rails" width="40" height="40"/> </a> 
  
  [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,ruby,rails,postgres,git&theme=light)](https://reactjs.org/)
+  [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,ruby,rails,postgres,git&theme=light)](https://reactjs.org/)
 
 </p>
 
