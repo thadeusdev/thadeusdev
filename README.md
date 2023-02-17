@@ -4,7 +4,7 @@
 
 ## Full-Stack Developer!!
 
-- 🔭 I’m currently working on Rect JS && Ruby on Rails projects.
+- 🔭 I’m currently working on React JS && Ruby on Rails projects.
 - 👯 Looking forward to collaborate on Frontend and Backend related projects.
 - :computer: Most used line of code `rails s` and `npx start --prefix client`.
 <!-- - ⚡ Fun fact: I play video games and I love watching Football *(Premier League)* && Formula 1 *(Redbull Racing)*.
