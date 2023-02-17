@@ -19,13 +19,14 @@
 <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Ruby on Rails/Ruby on Rails-original.svg" alt="rails" width="40" height="40"/> </a>  -->
  
 <!--  [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,ruby,rails,postgres,git&theme=light)](https://reactjs.org/) -->
- [![My Skills](https://skills.thijs.gg/icons?i=js,html&theme=light)](https://www.w3.org/html/)
-  [![My Skills](https://skills.thijs.gg/icons?i=js,css&theme=light)](https://www.w3schools.com/css/)
-  [![My Skills](https://skills.thijs.gg/icons?i=js,react&theme=light)](https://reactjs.org/)
-  [![My Skills](https://skills.thijs.gg/icons?i=js,ruby&theme=light)](https://www.ruby-lang.org/en/)
-  [![My Skills](https://skills.thijs.gg/icons?i=js,rails&theme=light)](https://rubyonrails.org/)
-  [![My Skills](https://skills.thijs.gg/icons?i=js,postgres&theme=light)](https://www.postgresql.org/)
-  [![My Skills](https://skills.thijs.gg/icons?i=js,git&theme=light)](https://git-scm.com/)
+  [![My Skills](https://skills.thijs.gg/icons?i=js&theme=light)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+ [![My Skills](https://skills.thijs.gg/icons?i=html&theme=light)](https://www.w3.org/html/)
+  [![My Skills](https://skills.thijs.gg/icons?i=css&theme=light)](https://www.w3schools.com/css/)
+  [![My Skills](https://skills.thijs.gg/icons?i=react&theme=light)](https://reactjs.org/)
+  [![My Skills](https://skills.thijs.gg/icons?i=ruby&theme=light)](https://www.ruby-lang.org/en/)
+  [![My Skills](https://skills.thijs.gg/icons?i=rails&theme=light)](https://rubyonrails.org/)
+  [![My Skills](https://skills.thijs.gg/icons?i=postgres&theme=light)](https://www.postgresql.org/)
+  [![My Skills](https://skills.thijs.gg/icons?i=git&theme=light)](https://git-scm.com/)
 
 </p>
 
