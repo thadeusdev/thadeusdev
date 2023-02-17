@@ -14,11 +14,7 @@
 - 📫 How to reach me **thadeusnyariki94@gmail.com**.
 
 <h3 align="left">Skills and Tools:</h3>
-<p align="left"> 
-<!-- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
-<a href="https://rubyonrails.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Ruby on Rails/Ruby on Rails-original.svg" alt="rails" width="40" height="40"/> </a>  -->
- 
-<!--  [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,ruby,rails,postgres,git&theme=light)](https://reactjs.org/) -->
+<p align="left">
   [![My Skills](https://skills.thijs.gg/icons?i=js&theme=light)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
  [![My Skills](https://skills.thijs.gg/icons?i=html&theme=light)](https://developer.mozilla.org/en-US/docs/Web/HTML)
   [![My Skills](https://skills.thijs.gg/icons?i=css&theme=light)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -28,9 +24,7 @@
   [![My Skills](https://skills.thijs.gg/icons?i=postgres&theme=light)](https://www.postgresql.org/)
   [![My Skills](https://skills.thijs.gg/icons?i=git&theme=light)](https://git-scm.com/)
  [![My Skills](https://skills.thijs.gg/icons?i=tailwind&theme=light)](https://tailwindcss.com/)
-
 </p>
-
 
 <!-- - ⚡ Fun fact: I play video games and I love watching Football *(Premier League)* && Formula 1 *(Redbull Racing)*.
  -->
