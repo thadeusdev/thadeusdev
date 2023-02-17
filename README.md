@@ -35,6 +35,13 @@
   </tr>   
 </table>
 
+![](https://raw.githubusercontent.com/thadeusdev/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/thadeusdev/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/thadeusdev/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/thadeusdev/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thadeusdev&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/thadeusdev/github-readme-stats)
+
 <!--
 **thadeusdev/thadeusdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
