@@ -42,6 +42,19 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thadeusdev&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/thadeusdev/github-readme-stats)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&layout=compact)
+
+---
+---
+
+<!-- <a href="https://github.com/thadeusdev/github-readme-activity-graph"><img alt="Activity graph" width = "900" height = "300" src="https://activity-graph.herokuapp.com/graph?username=thadeusdev&bg_color=1F222E&theme=material-palenight&line=D9E650&point=FFFFFF&hide_border=true" align = "left" />
+</a> -->
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=thedeusdev&&style=flat-square" align="center" />
+</div> 
+
 <!--
 **thadeusdev/thadeusdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
