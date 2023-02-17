@@ -10,6 +10,8 @@
 - 🔭 I’m currently working on React JS && Ruby on Rails projects.
 - 👯 Looking forward to collaborate on Frontend and Backend related projects.
 - :computer: Most used line of code `rails s` and `npx start --prefix client`.
+- 💬 Ask me about **Any topic in JavaScript, React JS, Ruby and Ruby on Rails**
+- 📫 How to reach me **thadeusnyariki94@gmail.com**
 <!-- - ⚡ Fun fact: I play video games and I love watching Football *(Premier League)* && Formula 1 *(Redbull Racing)*.
  -->
 
