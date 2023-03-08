@@ -24,6 +24,7 @@
   [![My Skills](https://skills.thijs.gg/icons?i=ruby&theme=light)](https://www.ruby-lang.org/en/)
   [![My Skills](https://skills.thijs.gg/icons?i=rails&theme=light)](https://rubyonrails.org/)
   [![My Skills](https://skills.thijs.gg/icons?i=postgres&theme=light)](https://www.postgresql.org/)
+  [![My Skills](https://skills.thijs.gg/icons?i=mongodb&theme=light)](https://www.postgresql.org/)
   [![My Skills](https://skills.thijs.gg/icons?i=git&theme=light)](https://git-scm.com/)
  [![My Skills](https://skills.thijs.gg/icons?i=tailwind&theme=light)](https://tailwindcss.com/)
  [![My Skills](https://skills.thijs.gg/icons?i=figma&theme=light)](https://figma.com/)
