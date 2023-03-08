@@ -23,7 +23,7 @@
   [![My Skills](https://skills.thijs.gg/icons?i=react&theme=light)](https://reactjs.org/)
   [![My Skills](https://skills.thijs.gg/icons?i=nodejs&theme=light)](https://nodejs.org/en/about/)
   [![My Skills](https://skills.thijs.gg/icons?i=express&theme=light)](https://expressjs.com/)
-  [![My Skills](https://skills.thijs.gg/icons?i=mongoose&theme=light)](https://expressjs.com/)
+  [![My Skills](https://skills.thijs.gg/icons?i=mongoosejs&theme=light)](https://expressjs.com/)
   [![My Skills](https://skills.thijs.gg/icons?i=vite&theme=light)](https://vitejs.dev/)
   [![My Skills](https://skills.thijs.gg/icons?i=ruby&theme=light)](https://www.ruby-lang.org/en/)
   [![My Skills](https://skills.thijs.gg/icons?i=rails&theme=light)](https://rubyonrails.org/)
