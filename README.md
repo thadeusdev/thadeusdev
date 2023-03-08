@@ -24,7 +24,7 @@
   [![My Skills](https://skills.thijs.gg/icons?i=nodejs&theme=light)](https://nodejs.org/en/about/)
   [![My Skills](https://skills.thijs.gg/icons?i=express&theme=light)](https://expressjs.com/)
   [![My Skills](https://skills.thijs.gg/icons?i=postman&theme=light)](https://www.postman.com/)
-  [![My Skills](https://skills.thijs.gg/icons?i=linux&theme=light)](https://www.postman.com/)
+  [![My Skills](https://skills.thijs.gg/icons?i=linux&theme=light)](https://ubuntu.com/)
   [![My Skills](https://skills.thijs.gg/icons?i=vite&theme=light)](https://vitejs.dev/)
   [![My Skills](https://skills.thijs.gg/icons?i=ruby&theme=light)](https://www.ruby-lang.org/en/)
   [![My Skills](https://skills.thijs.gg/icons?i=rails&theme=light)](https://rubyonrails.org/)
