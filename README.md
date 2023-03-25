@@ -1,4 +1,4 @@
-[![MasterHead](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47hr8lmi784578lwvy7b9ub6987ayfp5tptjlp0u8z&rid=200.webp&ct=g)](https://thadeusdev.github.io/portfolio/)
+[![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)](https://thadeusdev.github.io/portfolio/)
 
 ### Hi there <img src="https://user-images.githubusercontent.com/61727167/114547962-cecc6b80-9c67-11eb-9697-b1c5a8c8ff46.gif" height="50px" width="30px">... I'm Thadeus Nyariki
 <img src="https://img.icons8.com/color/100/000000/source-code.png"/>
