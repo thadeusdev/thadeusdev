@@ -33,6 +33,7 @@
   [![My Skills](https://skills.thijs.gg/icons?i=git&theme=light)](https://git-scm.com/)
  [![My Skills](https://skills.thijs.gg/icons?i=tailwind&theme=light)](https://tailwindcss.com/)
  [![My Skills](https://skills.thijs.gg/icons?i=figma&theme=light)](https://figma.com/)
+   [![My Skills](https://skills.thijs.gg/icons?i=graphql&theme=light)](https://figma.com/)
   
 </p>
 
