@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://rishavchanda.io)
+[![MasterHead](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47hr8lmi784578lwvy7b9ub6987ayfp5tptjlp0u8z&rid=200.webp&ct=g)](https://thadeusdev.github.io/portfolio/)
 
 ### Hi there <img src="https://user-images.githubusercontent.com/61727167/114547962-cecc6b80-9c67-11eb-9697-b1c5a8c8ff46.gif" height="50px" width="30px">... I'm Thadeus Nyariki
 <img src="https://img.icons8.com/color/100/000000/source-code.png"/>
