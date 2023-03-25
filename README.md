@@ -13,7 +13,7 @@
 - 💬 Ask me about **Any topic in JavaScript, React JS, Ruby and Ruby on Rails**.
 - 📫 How to reach me **thadeusnyariki94@gmail.com**.
 
-<h3 align="left">Skills and Tools:</h3>
+### 💻 Tech Stack:
 <p align="left">
   
   [![My Skills](https://skills.thijs.gg/icons?i=js&theme=light)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
