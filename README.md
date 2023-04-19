@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thadeusdev" alt="thadeusdev" /></a> </p>
 
-## Full-Stack Developer!!
+## Full-Stack Software Developer!!
 
 - 🔭 I’m currently working on React JS & Ruby on Rails projects.
 - 👯 Looking forward to collaborate on Frontend and Backend related projects.
