@@ -22,7 +22,7 @@
   [![My Skills](https://skills.thijs.gg/icons?i=scss&theme=light)](https://sass-lang.com/)
   [![My Skills](https://skills.thijs.gg/icons?i=react&theme=light)](https://reactjs.org/)
   [![My Skills](https://skills.thijs.gg/icons?i=nodejs&theme=light)](https://nodejs.org/en/about/)
-  [![My Skills](https://skills.thijs.gg/icons?i=androidos&theme=light)]()
+  [![My Skills](https://skills.thijs.gg/icons?i=androidapp&theme=light)]()
   [![My Skills](https://skills.thijs.gg/icons?i=postman&theme=light)](https://www.postman.com/)
   [![My Skills](https://skills.thijs.gg/icons?i=linux&theme=light)](https://ubuntu.com/)
   [![My Skills](https://skills.thijs.gg/icons?i=vite&theme=light)](https://vitejs.dev/)
