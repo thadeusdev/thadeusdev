@@ -21,7 +21,7 @@
   [![My Skills](https://skills.thijs.gg/icons?i=css&theme=light)](https://developer.mozilla.org/en-US/docs/Web/CSS)
   [![My Skills](https://skills.thijs.gg/icons?i=scss&theme=light)](https://sass-lang.com/)
   [![My Skills](https://skills.thijs.gg/icons?i=react&theme=light)](https://reactjs.org/)
-  [![My Skills](https://skills.thijs.gg/icons?i=react-native&theme=light)]()
+  [![My Skills](https://skills.thijs.gg/icons?i=reactnative&theme=light)]()
   [![My Skills](https://skills.thijs.gg/icons?i=nodejs&theme=light)](https://nodejs.org/en/about/)
   [![My Skills](https://skills.thijs.gg/icons?i=express&theme=light)](https://expressjs.com/)
   [![My Skills](https://skills.thijs.gg/icons?i=postman&theme=light)](https://www.postman.com/)
