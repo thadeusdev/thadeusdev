@@ -16,7 +16,7 @@
 ### 💻 Tech Stack:
 <p align="left">
   
-  [![My Skills](https://skills.thijs.gg/icons?i=js&theme=light)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  [![My Skills](https://skills.thijs.gg/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
  [![My Skills](https://skills.thijs.gg/icons?i=html&theme=light)](https://developer.mozilla.org/en-US/docs/Web/HTML)
   [![My Skills](https://skills.thijs.gg/icons?i=css&theme=light)](https://developer.mozilla.org/en-US/docs/Web/CSS)
   [![My Skills](https://skills.thijs.gg/icons?i=scss&theme=light)](https://sass-lang.com/)
