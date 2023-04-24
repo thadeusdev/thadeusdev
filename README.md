@@ -34,7 +34,7 @@
  [![My Skills](https://skills.thijs.gg/icons?i=tailwind&theme=light)](https://tailwindcss.com/)
  [![My Skills](https://skills.thijs.gg/icons?i=figma&theme=light)](https://figma.com/)
    [![My Skills](https://skills.thijs.gg/icons?i=graphql&theme=light)](https://graphql.org/learn/)
-  [![My Skills](https://skills.thijs.gg/icons?i=android&theme=light)]()
+  [![My Skills](https://skills.thijs.gg/icons?i=Android&theme=light)]()
   [![My Skills](https://skills.thijs.gg/icons?i=ios&theme=light)]()
   
 </p>
