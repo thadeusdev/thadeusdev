@@ -16,7 +16,7 @@
 ### 💻 Tech Stack:
 <p align="left">
   
-  [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,scss,react,ruby,rails,postman,linux,git&theme=light)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,scss,tailwind,react,vite,ruby,rails,postgres,postman,linux,git&theme=light)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 <!--  [![My Skills](https://skills.thijs.gg/icons?i=html&theme=light)](https://developer.mozilla.org/en-US/docs/Web/HTML) -->
 <!--   [![My Skills](https://skills.thijs.gg/icons?i=css&theme=light)](https://developer.mozilla.org/en-US/docs/Web/CSS) -->
 <!--   [![My Skills](https://skills.thijs.gg/icons?i=scss&theme=light)](https://sass-lang.com/) -->
@@ -24,13 +24,13 @@
 <!--   [![My Skills](https://skills.thijs.gg/icons?i=nodejs&theme=light)](https://nodejs.org/en/about/) -->
 <!--   [![My Skills](https://skills.thijs.gg/icons?i=postman&theme=light)](https://www.postman.com/) -->
 <!--   [![My Skills](https://skills.thijs.gg/icons?i=linux&theme=light)](https://ubuntu.com/) -->
-  [![My Skills](https://skills.thijs.gg/icons?i=vite&theme=light)](https://vitejs.dev/)
+<!--   [![My Skills](https://skills.thijs.gg/icons?i=vite&theme=light)](https://vitejs.dev/) -->
 <!--   [![My Skills](https://skills.thijs.gg/icons?i=ruby&theme=light)](https://www.ruby-lang.org/en/) -->
 <!--   [![My Skills](https://skills.thijs.gg/icons?i=rails&theme=light)](https://rubyonrails.org/) -->
-  [![My Skills](https://skills.thijs.gg/icons?i=postgres&theme=light)](https://www.postgresql.org/)
+<!--   [![My Skills](https://skills.thijs.gg/icons?i=postgres&theme=light)](https://www.postgresql.org/) -->
   [![My Skills](https://skills.thijs.gg/icons?i=mongodb&theme=light)](https://www.mongodb.com/cloud)
 <!--   [![My Skills](https://skills.thijs.gg/icons?i=git&theme=light)](https://git-scm.com/) -->
- [![My Skills](https://skills.thijs.gg/icons?i=tailwind&theme=light)](https://tailwindcss.com/)
+<!--  [![My Skills](https://skills.thijs.gg/icons?i=tailwind&theme=light)](https://tailwindcss.com/) -->
  [![My Skills](https://skills.thijs.gg/icons?i=figma&theme=light)](https://figma.com/)
    [![My Skills](https://skills.thijs.gg/icons?i=graphql&theme=light)](https://graphql.org/learn/)
   
