@@ -16,9 +16,9 @@
 ### 💻 Tech Stack:
 <p align="left">
   
-  [![My Skills](https://skills.thijs.gg/icons?i=js&theme=light)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
- [![My Skills](https://skills.thijs.gg/icons?i=html&theme=light)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-  [![My Skills](https://skills.thijs.gg/icons?i=css&theme=light)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  [![My Skills](https://skills.thijs.gg/icons?i=js,html,css&theme=light)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+<!--  [![My Skills](https://skills.thijs.gg/icons?i=html&theme=light)](https://developer.mozilla.org/en-US/docs/Web/HTML) -->
+<!--   [![My Skills](https://skills.thijs.gg/icons?i=css&theme=light)](https://developer.mozilla.org/en-US/docs/Web/CSS) -->
   [![My Skills](https://skills.thijs.gg/icons?i=scss&theme=light)](https://sass-lang.com/)
   [![My Skills](https://skills.thijs.gg/icons?i=react&theme=light)](https://reactjs.org/)
   [![My Skills](https://skills.thijs.gg/icons?i=nodejs&theme=light)](https://nodejs.org/en/about/)
