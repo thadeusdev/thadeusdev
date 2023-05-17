@@ -17,7 +17,7 @@
 ### 💻 Tech Stack:
 <p align="left">
   
-  [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,python,scss,tailwind,react,vite,ruby,rails,postgres,mongodb,postman,linux,git&theme=light)]()  
+  [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,python,bash,scss,tailwind,react,vite,ruby,rails,postgres,mongodb,postman,linux,git&theme=light)]()  
 </p>
 
 <!-- - ⚡ Fun fact: I play video games and I love watching Football *(Premier League)* && Formula 1 *(Redbull Racing)*.
