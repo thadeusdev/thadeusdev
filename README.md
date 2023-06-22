@@ -1,4 +1,4 @@
-[![MasterHead](/img/mygithub.gif)](https://thadeus-nyariki.netlify.app/)
+[![MasterHead](/img/mygithub.gif)]
 
 ### Hi there <img src="https://user-images.githubusercontent.com/61727167/114547962-cecc6b80-9c67-11eb-9697-b1c5a8c8ff46.gif" height="50px" width="30px">... I'm Thadeus Nyariki
 <img src="https://img.icons8.com/color/100/000000/source-code.png"/>
