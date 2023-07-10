@@ -42,7 +42,7 @@
 <img src=https://img.shields.io/badge/medium-%2320232a.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>
 <a href="https://thadeus-nyariki.netlify.app/" target="_blank">
-<img src=https://img.shields.io/badge/website-%2320232a.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/website-%2320232a.svg?&style=for-the-badge&logo=website&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>
 
 ### :octocat: My stats
