@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on React JS & Ruby on Rails projects.
 - 👯 Looking forward to collaborate on Frontend and Backend related projects.
 - :computer: Most used line of code `rails s` and `npm start --prefix client`.
-- 🌱 I’m currently learning [Python](https://www.python.org/).
+- 🌱 I’m currently learning [Angular](https://angular.io/).
 - 💬 Ask me about **Any topic in JavaScript, React JS, Ruby and Ruby on Rails**.
 - 📫 How to reach me **thadeusnyariki94@gmail.com**.
 
