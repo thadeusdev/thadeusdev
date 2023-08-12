@@ -39,22 +39,6 @@
 <img src=https://img.shields.io/badge/portfolio-%2320232a.svg?&style=for-the-badge&logo=portfolio&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>
 
-### :octocat: My stats
-  <table>
-  <tr>
-      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=thadeusdev&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight"/></td>
-    <td><img width="400px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=thadeusdev&show_icons=true&locale=en&layout=compact&theme=tokyonight"/></td>
-  
-  </tr>   
-</table>
-
-![](https://raw.githubusercontent.com/thadeusdev/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/thadeusdev/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/thadeusdev/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/thadeusdev/github-stats/master/generated/languages.svg#gh-light-mode-only)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thadeusdev&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/thadeusdev/github-readme-stats)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&layout=compact)
 
