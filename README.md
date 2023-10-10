@@ -1,7 +1,7 @@
 ### Hi there <img src="https://user-images.githubusercontent.com/61727167/114547962-cecc6b80-9c67-11eb-9697-b1c5a8c8ff46.gif" height="50px" width="30px">... I'm Thadeus Nyariki
 <img src="https://img.icons8.com/color/100/000000/source-code.png"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thadeusdev" alt="thadeusdev" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thadeusdev&theme=onedark" alt="thadeusdev" /></a> </p>
 
 ## Full-Stack Software Developer!!
 
