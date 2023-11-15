@@ -9,7 +9,7 @@
 ### 💻 Tech Stack:
 <p align="left">
   
-  [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,java,kotlin,python,bash,scss,tailwind,react,angular,rxjs,next,nodejs,ruby,rails,postgres,firebase,mongodb,postman,linux,androidstudio,git&theme=light)]()  
+  [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,java,kotlin,python,bash,scss,tailwind,react,angular,rxjs,next,nodejs,ruby,rails,postgres,firebase,mongodb,postman,linux,android,git&theme=light)]()  
 </p>
 
 <!-- - ⚡ Fun fact: I play video games and I love watching Football *(Premier League)* && Formula 1 *(Redbull Racing)*.
