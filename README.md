@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thadeusdev&theme=onedark" alt="thadeusdev" /></a> </p>
 
-## Full-Stack Software Developer!!
+## Your Tech enthusiast!!
 
 
 ### 💻 Tech Stack:
