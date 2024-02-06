@@ -15,7 +15,7 @@ I am a software engineer specializing in web application development, with focus
 
 <img src="https://github-readme-stats.vercel.app/api?username=thadeusdev&theme=radical&show_icons=true" alt="Github Stats"/>
 
-![Beatrice's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thadeusdev&theme=gotham&layout=compact)
+![Thadeus's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thadeusdev&theme=gotham&layout=compact)
 <br/>
 
 # Tech Stacks
