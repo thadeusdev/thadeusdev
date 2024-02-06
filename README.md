@@ -1,67 +1,50 @@
-### Hi there <img src="https://user-images.githubusercontent.com/61727167/114547962-cecc6b80-9c67-11eb-9697-b1c5a8c8ff46.gif" height="50px" width="30px">... I'm Thadeus Nyariki.
-<img src="https://img.icons8.com/color/100/000000/source-code.png"/>
+# Hi there, I Am Thadeus! 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thadeusdev&theme=onedark" alt="thadeusdev" /></a> </p>
+<!-- <a href="https://beatricewambuimbugua.com/" target="_blank"><img src="https://thumbs2.imgbox.com/d1/1c/uUCfqV6H_t.png" alt="image host"/></a> -->
+# Bio 
+I am a software engineer specializing in web application development, with focus on crafting immersive user experiences. My expertise lies in utilizing technologies such as Angular, React, JavaScript, and Ruby on Rails to bring ideas to life. I'm passionate about the intersection of technology and human-centered design, constantly refining my skills to ensure seamless interactions and intuitive interfaces. In addition to coding, I also engage in data center engineering, ensuring robust infrastructure to support scalable applications. Welcome to my realm, where innovation meets excellence!🌐💻🚀
 
-## Your Tech enthusiast!!
+![Profile View Counter](https://komarev.com/ghpvc/?username=thedeusdev)
+
+## Github Stats
 
 
-### 💻 Tech Stack:
-<p align="left">
-  
-  [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,java,kotlin,python,bash,scss,tailwind,react,angular,rxjs,next,nodejs,ruby,rails,postgres,firebase,mongodb,postman,linux,androidstudio,git&theme=light)]()  
-</p>
-
-<!-- - ⚡ Fun fact: I play video games and I love watching Football *(Premier League)* && Formula 1 *(Redbull Racing)*.
- -->
-
-<!--
-- 🤔 I’m looking for help with Android Dev...
-- 🌱 I’m currently learning [ReactJS](https://reactjs.org/).
--->
-
----
----
-### Connect With Me:
-
-<a href="https://twitter.com/thadeus617" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/thadeus-nyariki/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://medium.com/@thadeusnyariki94" target="_blank">
-<img src=https://img.shields.io/badge/medium-%2320232a.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>
-<a href="https://thadeus-nyariki.netlify.app/" target="_blank">
-<img src=https://img.shields.io/badge/portfolio-%2320232a.svg?&style=for-the-badge&logo=portfolio&logoColor=white alt=medium style="margin-bottom: 5px;" />
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=thadeusdev&count_private=true&show_icons=true&theme=cobalt">
+  <img  align="left" src = "https://github-readme-streak-stats.herokuapp.com/?user=thadeusdev&theme=gotham">
 </a>
 
-### ✍️ Random Dev Quote
+<img src="https://github-readme-stats.vercel.app/api?username=thadeusdev&theme=radical&show_icons=true" alt="Github Stats"/>
+
+![Beatrice's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thadeusdev&theme=gotham&layout=compact)
+<br/>
+
+# Tech Stacks
+
+### Front-End Languages 
+
+<img src= "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="left" />
+<img src= "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="left"/>
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="left"/> <br/>
+
+### Front-End Frameworks and Libraries
+
+<img src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white" align="left"/>
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" align="left"/> <br/>
+
+### Back-End Languages
+<img src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" align = "left"/>
+<img src = "https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" align = "left"/> <br/>
+
+### Back-End Frameworks and Libraries
+<img src = "https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white" align = "left"/> <br/>
+
+### Databases
+
+<img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" align="left"/>
+<img src= "https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" align= "left" />
+<img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" align = "left" /> <br/>
+<br/>
+
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&layout=compact)
-
----
----
-
-<!-- <a href="https://github.com/thadeusdev/github-readme-activity-graph"><img alt="Activity graph" width = "900" height = "300" src="https://activity-graph.herokuapp.com/graph?username=thadeusdev&bg_color=1F222E&theme=material-palenight&line=D9E650&point=FFFFFF&hide_border=true" align = "left" />
-</a> -->
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=thedeusdev&&style=flat-square" align="center" />
-</div> 
-
-<!--
-**thadeusdev/thadeusdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
