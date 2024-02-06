@@ -1,6 +1,6 @@
 # Hi there, I Am Thadeus! 👋
 
-<!-- <a href="https://beatricewambuimbugua.com/" target="_blank"><img src="https://thumbs2.imgbox.com/d1/1c/uUCfqV6H_t.png" alt="image host"/></a> -->
+<a href="https://beatricewambuimbugua.com/" target="_blank"><img src="https://raw.githubusercontent.com/thadeusdev/thadeus/main/src/assets/banner.png"/></a>
 # Bio 
 I am a software engineer specializing in web application development, with focus on crafting immersive user experiences. My expertise lies in utilizing technologies such as Angular, React, JavaScript, and Ruby on Rails to bring ideas to life. I'm passionate about the intersection of technology and human-centered design, constantly refining my skills to ensure seamless interactions and intuitive interfaces. In addition to coding, I also engage in data center engineering, ensuring robust infrastructure to support scalable applications. Welcome to my realm, where innovation meets excellence!🌐💻🚀
 
