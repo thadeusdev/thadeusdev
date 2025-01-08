@@ -1,6 +1,6 @@
 # Hi there, I Am Thadeus! 👋
 
-<a href="https://thadeus.vercel.app/" target="_blank"><img src="./img/thadeus.png"/></a>
+<a href="https://www.thadeusnyariki.com/" target="_blank"><img src="./img/thadeus.png"/></a>
 # Bio 
 I am a software engineer specializing in web application development, with focus on crafting immersive user experiences. My expertise lies in utilizing technologies such as Angular, React, JavaScript, and Ruby on Rails to bring ideas to life. I'm passionate about the intersection of technology and human-centered design, constantly refining my skills to ensure seamless interactions and intuitive interfaces. Welcome to my realm, where innovation meets excellence!🌐💻🚀
 
